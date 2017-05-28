@@ -17,7 +17,9 @@ background-color: #FAF0E6;
     font-size: 36pt;
     text-decoration: none;
 }
-
+p.bodytext{
+color: #808080;
+}
 .content {
     margin-left: 40px;
 }
